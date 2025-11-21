@@ -1,0 +1,7 @@
+train: C:/Users/kavipriya/Downloads/safety_dataset/images/train
+val: C:/Users/kavipriya/Downloads/safety_dataset/images/val
+
+names:
+  0: helmet
+  1: no_helmet
+  2: face
